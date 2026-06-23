@@ -34,3 +34,5 @@ Thumbs.db
 
 # Project specific
 echodrive.db
+logs/
+*.log
